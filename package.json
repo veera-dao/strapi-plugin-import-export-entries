@@ -1,6 +1,6 @@
 {
   "name": "veera-strapi-plugin-import-export-entries",
-  "version": "1.1.0",
+  "version": "0.0.1",
   "description": "Import/Export data from and to your database in just few clicks.",
   "strapi": {
     "name": "import-export-entries",
